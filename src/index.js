@@ -29,7 +29,7 @@ document.getElementById("app").innerHTML = `
     <button style="visibility: hidden"><span style='font-size:15px;'>&#11014;</span></button>
   </div>
   <div>
-    <button><span style='font-size:15px;'>AM</span></button>
+    <button style="background-color:white;"><span style='font-size:15px;'>AM</span></button>
     <button><span style='font-size:15px;'>PM</span></button>
   </div>
   <div>
